@@ -6,4 +6,4 @@
 
 <h3 align="center">Myself Farzan, I am a 3rd Year Btech Computer Science Student @ Toc H Institute of Science and Technology. Passionate to contribute open-source projects and communities.</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Farzanfa&count_private=true&theme=dark&show_icons=true" alt="Farzanfa" align='Center' />
+<img src="https://github-readme-stats.vercel.app/api?username=Farzanfa&count_private=true&theme=dark&show_icons=true" alt="Farzanfa" align='center' />
